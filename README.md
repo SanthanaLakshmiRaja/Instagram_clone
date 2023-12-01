@@ -67,6 +67,3 @@ $ npm install
 $ npm start
 ```
 
-## Contact
-
-- **Contact Creator: [Trupti Yadav](mailto:truptivijayyadav27@gmail.com)**
